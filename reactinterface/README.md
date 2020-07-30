@@ -72,7 +72,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ```powershell
 create-react-app reactinterface
 
-npm i -s bootstrap react-icons loadash jquery popper.js moment react-moment
+npm i -s bootstrap react-icons lodash jquery popper.js moment react-moment
 
 npm install --save-dev @babel/core
+
+npm start
 ```
